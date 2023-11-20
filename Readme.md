@@ -83,9 +83,8 @@ If Unity prompts you to upgrade the project to your current version of Unity, cr
 
 ## Resources
 
-* [ArcGIS Maps SDK for Unity's documentation](https://developers.arcgis.com/unity/)
+* [ARCore]([https://developers.arcgis.com/unity/](https://developers.google.com/ar))
 * [Unity's documentation](https://docs.unity.com/)
-* [Esri Community forum](https://community.esri.com/t5/arcgis-maps-sdks-for-unity-questions/bd-p/arcgis-maps-sdks-unity-questions)
 
 ## Issues
 
