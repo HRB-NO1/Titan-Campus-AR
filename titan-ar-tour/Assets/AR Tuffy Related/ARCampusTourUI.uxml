@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/ARNavigationStyles.uss?fileID=7433441132597879392&amp;guid=4f156f60e4d31e1429b405c3cb413974&amp;type=3#ARNavigationStyles" />
+    <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 170, 255, 0);">
+        <ui:Button text="Navigation" display-tooltip-when-elided="true" name="BackToNavButton" style="height: 38px; width: 73px; -unity-text-align: middle-center; left: 0; top: 0; position: relative; align-items: stretch; justify-content: flex-start; right: auto; bottom: auto;" />
+    </ui:VisualElement>
+</ui:UXML>

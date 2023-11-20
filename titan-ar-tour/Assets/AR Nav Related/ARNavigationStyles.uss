@@ -1,0 +1,13 @@
+#unity-text-input {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    align-items: auto;
+    -unity-text-align: middle-left;
+    justify-content: flex-start;
+    white-space: nowrap;
+    color: rgba(0, 0, 0, 255);
+    padding-left: 12px;
+    padding-right: 12px;
+}
