@@ -8,11 +8,11 @@
 ### Note
 For optimal utilization within the Unity editor, it is recommended to commence with the Menu Scene as the initial point of interaction.
 
-### Requirements for Sample Project
+### Requirements for Developing
 * A computing system operating on Windows or macOS platforms.
 * Compatibility with Unity version 2021.3.12f1 is required for project integration.
 
-### Requirements for XR Sample Project
+### Requirements for AR Sample Project
 * An Android mobile device equipped with a camera, GPS functionality, and Internet connectivity is mandatory for the application’s operation.
 
 ## Features
