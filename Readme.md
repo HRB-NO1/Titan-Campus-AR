@@ -1,9 +1,12 @@
 # CampusGuide AR
 
-![image](Resource/Screenshot_20231119_192620_Gallery.jpg)
-![image](Resource/Screenshot_20231119_192639_Gallery.jpg)
-![image](Resource/Screenshot_20231119_192727_Gallery.jpg)
-![image](Resource/Screenshot_20231119_192734_Gallery.jpg)
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+  <img src="Resource/Screenshot_20231119_192620_Gallery.jpg" width="232" style="margin-right: 10px;"/>
+  <img src="Resource/Screenshot_20231119_192639_Gallery.jpg" width="232" style="margin-right: 10px;"/>
+  <img src="Resource/Screenshot_20231119_192727_Gallery.jpg" width="232" style="margin-right: 10px;"/>
+  <img src="Resource/Screenshot_20231119_192734_Gallery.jpg" width="232"/>
+</div>
+
 
 ### Note
 For optimal utilization within the Unity editor, it is recommended to commence with the Menu Scene as the initial point of interaction.
