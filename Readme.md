@@ -1,9 +1,9 @@
 # arcgis-maps-sdk-unity-samples
 
-![image](Screenshot_20231119_192620_Gallery.jpg)
-![image](Screenshot_20231119_192639_Gallery.jpg)
-![image](Screenshot_20231119_192727_Gallery.jpg)
-![image](Screenshot_20231119_192734_Gallery.jpg)
+![image](Resource/Screenshot_20231119_192620_Gallery.jpg)
+![image](Resource/Screenshot_20231119_192639_Gallery.jpg)
+![image](Resource/Screenshot_20231119_192727_Gallery.jpg)
+![image](Resource/Screenshot_20231119_192734_Gallery.jpg)
 
 Here is a Unity project containing a set of samples showing you how to accomplish various things using the combined features of Unity and the ArcGIS Maps SDK for Unity. The `main` branch is configured to work with our most recent release (1.3.0) if you want to use the sample repo with an older release check out the corresponding tag of the sample repo, `git checkout 1.0.0` for the sample repo that worked with our 1.0.0 release.
 
