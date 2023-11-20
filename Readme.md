@@ -77,10 +77,6 @@ Select the folder and Unity Hub will add it to your projects list.
 Click on the titan-ar-tour project in Unity Hub to open it with Unity Editor.
 If Unity prompts you to upgrade the project to your current version of Unity, create a backup and proceed with the upgrade if you wish. Otherwise, continue with the project's current version if it's compatible with your Unity Editor version.
 
-## Requirements
-
-* Refer to the [ArcGIS Maps SDK for Unity's documentation on system requirements](https://developers.arcgis.com/unity/reference/system-requirements/)
-
 ## Resources
 
 * [ARCore](https://developers.google.com/ar)
