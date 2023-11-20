@@ -1,25 +1,19 @@
-# arcgis-maps-sdk-unity-samples
+# CampusGuide AR
 
 ![image](Resource/Screenshot_20231119_192620_Gallery.jpg)
 ![image](Resource/Screenshot_20231119_192639_Gallery.jpg)
 ![image](Resource/Screenshot_20231119_192727_Gallery.jpg)
 ![image](Resource/Screenshot_20231119_192734_Gallery.jpg)
 
-Here is a Unity project containing a set of samples showing you how to accomplish various things using the combined features of Unity and the ArcGIS Maps SDK for Unity. The `main` branch is configured to work with our most recent release (1.3.0) if you want to use the sample repo with an older release check out the corresponding tag of the sample repo, `git checkout 1.0.0` for the sample repo that worked with our 1.0.0 release.
-
 ### Note
-This repository is made up of two seperate Unity projects. If you would like to see the samples made for regular use such as Feature Layer and Routing, please use and set up the **sample_project**. If you are interested in XR Samples such as, the Virtual Reality Sample and the XR version of our Table Top Sample (coming soon), please use and set up the **sample_xr**. Both projects may be used and set up simultaneously, but they do not contain the same samples. 
+For optimal utilization within the Unity editor, it is recommended to commence with the Menu Scene as the initial point of interaction.
 
 ### Requirements for Sample Project
-* Computer running Windows or macOS
-* The Unity project was created with 2021.3.24 LTS but is compatible with any version of 2021.3 LTS and also works with 2022.3 LTS
-* ArcGISMaps SDK for Unity
+* A computing system operating on Windows or macOS platforms.
+* Compatibility with Unity version 2021.3.12f1 is required for project integration.
 
 ### Requirements for XR Sample Project
-* Computer running Windows (OpenXR is not supported on macOS)
-* The Unity project was created with 2021.3.24 LTS but is compatible with any version of 2021.3 LTS and also works with 2022.3 LTS
-* ArcGISMaps SDK for Unity
-* A VR Headset and the necessary software to through Desktop Mode
+* An Android mobile device equipped with a camera, GPS functionality, and Internet connectivity is mandatory for the application’s operation.
 
 ## Features
 
@@ -33,37 +27,55 @@ This repository is made up of two seperate Unity projects. If you would like to 
 * [Stream Layer](https://github.com/Esri/arcgis-maps-sdk-unity-samples/tree/main/samples_project/Assets/SampleViewer/Samples/StreamLayer) - See how to use web sockets to connect to an Esri real time service to update game objects locations in real time.
 * [Third Person Controller](https://github.com/Esri/arcgis-maps-sdk-unity-samples/tree/main/samples_project/Assets/SampleViewer/Samples/ThirdPerson) - Explore from the perspective of a third person camera following a controllable character.
 
-## Features in XR Sample Project
-* [VRSample](https://github.com/Esri/arcgis-maps-sdk-unity-samples/tree/main/samples_xr/Assets/SampleViewer/Samples/VRSample) - See how to configure the camera to visualize content on a VR device and move the camera with VR locomotion.
-
 ## Instructions
 
-1. Clone this repo.
-2. Refer to the [ArcGIS Maps SDK for Unity's documentation on getting started](https://developers.arcgis.com/unity/get-started/) on how to download `Unity` and the `ArcGIS Maps SDK for Unity`.
-3. Open the project in Unity ignoring the errors when prompted to enter `Safe Mode`.
-4. Use the package manager to import the `.tarball` downloaded in step 2.
+**Instructions for Importing Titan Campus AR Unity Package**
+1. *Download the Unity Package:*
+   Locate the Titan Campus AR.unitypackage file in your GitHub repository.
+   Click on the file and use the download option provided by GitHub to save the .unitypackage file to your local machine.
 
-   ![image](package-manager.png)
+2. *Open Unity:*
+   Launch the Unity Editor.
+   Open an existing project where you want to import the package, or create a new Unity project.
 
-5. Import the samples. These samples include some components necessary for this repo to function including the `ArcGIS Camera Controller` component.
+3. *Import the Unity Package:*
+   Once you have your project open in Unity, go to the top menu bar and click on Assets.
+   From the dropdown menu, select Import Package > Custom Package....
+   Navigate to the location where you downloaded Titan Campus AR.unitypackage.
+   Select the file and click Open.
 
-   ![image](import-samples.png)
+4. *Confirm the Import:*
+   A dialog will appear showing all the files to be imported. By default, all files should be selected.
+   Verify that all the necessary files are checked. If you only need certain parts of the package, you can uncheck the items you don't want to import.
+   Click on the Import button to start the import process.
 
-   NOTE: There is a known issue with ArcGIS Maps SDK for Unity 1.3. In projects that use the new input system, an assembly definition file in the plugin samples needs to be updated.
+5. *Wait for Unity to Complete the Import:*
+   Unity will now import all the selected items from the package into your project. This process may take some time depending on the size of the package and the speed of your computer.
+   
+6. *Verify the Imported Assets:*
+   Once Unity has finished importing, you can verify the assets by navigating to the Assets folder in the Project window within Unity.
+   Look for a folder with the name Titan Campus AR or similar, which should contain all the imported assets.
 
-   1. Select `\Assets\Samples\ArcGIS Maps SDK for Unity\1.3.0\Sample Content\ArcGISMapsSDK.Samples.asmdef` in the Unity project explorer.
+7. *Ready to Use:*
+   The assets from the package are now ready to use in your project. You can drag and drop the assets into your scene or reference them in your scripts as needed.
+   
+**Instructions for Opening the Project from the Disk**
+1. *Clone the Repository:*
+Navigate to the GitHub page for the titan-ar-tour project.
+Click on the 'Code' button and copy the URL to clone the repository.
 
-   2. In the inspector tab, add `Unity.InputSystem` to the references.
+2. *Open Unity Hub:*
+Launch Unity Hub on your machine.
+Go to the 'Projects' tab.
 
-      ![Inspector screen for assembly definition](asmdefReference.png)
+3. *Add the Project:*
+Click on the 'Add' button.
+Browse to the location where you cloned the titan-ar-tour repository.
+Select the folder and Unity Hub will add it to your projects list.
 
-   3. Scroll to the bottom of the inspector tab and click "Apply".
-
-6. Launch Unity and open the `SampleViewer` level (it should open by default).
-
-7. In the heirarchy select the `SampleSwitcher` Game Object and then in the inspector set your API Key. You can learn more about [API keys](https://developers.arcgis.com/documentation/mapping-apis-and-services/security/api-keys/) and [Accounts](https://developers.arcgis.com/documentation/mapping-apis-and-services/deployment/accounts/) in the _Mapping APIs and location services_ guide.
-
-8. (Optional) If you want to be able to open the `.cs` files in this project and have intellisense recognize variable correctly, in Unity navigate to `Edit -> Preferences -> External Tools -> Generate .csproj files for 'local tarball`
+4. *Open the Project:*
+Click on the titan-ar-tour project in Unity Hub to open it with Unity Editor.
+If Unity prompts you to upgrade the project to your current version of Unity, create a backup and proceed with the upgrade if you wish. Otherwise, continue with the project's current version if it's compatible with your Unity Editor version.
 
 ## Requirements
 
