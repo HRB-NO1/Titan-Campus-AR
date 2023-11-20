@@ -20,11 +20,12 @@ For optimal utilization within the Unity editor, it is recommended to commence w
 ## Features
 
 **Map Scene**
-* [0]() - xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
-* [0]() - xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+* [GoogleMapStyleGesture](https://github.com/HRB-NO1/Titan-Campus-AR/blob/main/titan-ar-tour/Assets/Menu%20Related/GoogleMapStyleGesture.cs) - Designed for a Unity application and provides an interactive map interface with zoom and drag functionalities akin to those found in Google Maps. Users can zoom in and out of the   map using pinch gestures or mouse scroll, and drag to navigate different areas of the campus, with the map's view adjusting responsively in a smooth and intuitive manner.
+
 **AR Nav**
 * [0]() - xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 * [0]() - xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
 **AR Tuffy**
 * [0]() - xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 * [0]() - xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
