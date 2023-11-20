@@ -83,7 +83,7 @@ If Unity prompts you to upgrade the project to your current version of Unity, cr
 
 ## Resources
 
-* [ARCore](https://developers.arcgis.com/unity/](https://developers.google.com/ar))
+* [ARCore](https://developers.google.com/ar)
 * [Unity's documentation](https://docs.unity.com/)
 
 ## Issues
