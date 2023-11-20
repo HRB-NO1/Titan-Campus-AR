@@ -73,8 +73,8 @@ public class GoogleMapStyleGesture : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        CheckObjectsStatus();  // 检查对象的状态
-        if (!disableInteractions)  // 如果禁用交互为false，则继续进行拖动和缩放
+        CheckObjectsStatus();
+        if (!disableInteractions)
         {
             processDrag();
             processZoom();
@@ -83,13 +83,13 @@ public class GoogleMapStyleGesture : MonoBehaviour
 
     private void CheckObjectsStatus()
     {
-        disableInteractions = false; // 默认不禁用交互
+        disableInteractions = false;
         foreach (GameObject obj in objectsToMonitor)
         {
-            if (obj.activeInHierarchy)  // 如果对象在场景中处于活动状态
+            if (obj.activeInHierarchy)
             {
-                disableInteractions = true;  // 禁用交互
-                break;  // 跳出循环
+                disableInteractions = true;
+                break;
             }
             if (GameObject.Find("Dropdown List"))
             {
@@ -274,7 +274,7 @@ public class GoogleMapStyleGesture : MonoBehaviour
         else
         {
             //mice and keyboard
-            float zoomSpeedMultiplier = 30.0f;  // 你可以根据需要调整这个乘数
+            float zoomSpeedMultiplier = 30.0f;
             increment = Input.GetAxis("Mouse ScrollWheel") * zoomSpeedMultiplier * -1;
         }
         //calculate new orthographic camera size
