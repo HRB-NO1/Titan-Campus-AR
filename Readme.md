@@ -72,11 +72,6 @@ For optimal utilization within the Unity editor, it is recommended to commence w
    * Navigate to the location where you downloaded Titan Campus AR.unitypackage.
    * Select the file and click Open.
 
-4. *Confirm the Import:*
-   * A dialog will appear showing all the files to be imported. By default, all files should be selected.
-   * Verify that all the necessary files are checked. If you only need certain parts of the package, you can uncheck the items you don't want to import.
-   * Click on the Import button to start the import process.
-
 5. *Wait for Unity to Complete the Import:*
    * Unity will now import all the selected items from the package into your project. This process may take some time depending on the size of the package and the speed of your computer.
    
