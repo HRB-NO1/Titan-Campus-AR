@@ -37,9 +37,29 @@ For optimal utilization within the Unity editor, it is recommended to commence w
 
 ## Instructions
 
+**Android Installation Instructions for Titan Campus AR**
+1. *Download the APK File:*
+   * Locate the [Titan Campus AR.apk](https://github.com/HRB-NO1/Titan-Campus-AR/blob/main/Titan%20Campus%20AR.apk) file in the repository.
+   * Download the .apk file to your Android device.
+
+2. *Install the Application:*
+   * Once downloaded, tap on the Titan Campus AR.apk file from your device's download folder
+   * Your device may ask for permissions to install applications from unknown sources. Please allow this permission to proceed.
+   * Follow the on-screen instructions to complete the installation.
+     
+3. *Install the Application:*
+   * After installation, open Titan Campus AR from your device’s app drawer.
+   * The application is now ready for use.
+
+
+4. *Confirm the Import:*
+   * A dialog will appear showing all the files to be imported. By default, all files should be selected.
+   * Verify that all the necessary files are checked. If you only need certain parts of the package, you can uncheck the items you don't want to import.
+   * Click on the Import button to start the import process.
+     
 **Instructions for Importing Titan Campus AR Unity Package**
 1. *Download the Unity Package:*
-   * Locate the Titan Campus AR.unitypackage file in your GitHub repository.
+   * Locate the [Titan Campus AR.unitypackage](https://github.com/HRB-NO1/Titan-Campus-AR/blob/main/Titan%20Campus%20AR.unitypackage) file in your GitHub repository.
    * Click on the file and use the download option provided by GitHub to save the .unitypackage file to your local machine.
 
 2. *Open Unity:*
@@ -69,7 +89,7 @@ For optimal utilization within the Unity editor, it is recommended to commence w
    
 **Instructions for Opening the Project from the Disk**
 1. *Clone the Repository:*
-   * Navigate to the GitHub page for the titan-ar-tour project.
+   * Navigate to the GitHub page for the [titan-ar-tour](https://github.com/HRB-NO1/Titan-Campus-AR/tree/main/titan-ar-tour) project.
    * Click on the 'Code' button and copy the URL to clone the repository.
 
 2. *Open Unity Hub:*
