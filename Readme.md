@@ -19,6 +19,16 @@ For optimal utilization within the Unity editor, it is recommended to commence w
 
 ## Features
 
+**Map Scene**
+*
+*
+**AR Nav**
+*
+*
+**AR Tuffy**
+*
+*
+
 * [Feature service REST API](https://github.com/Esri/arcgis-maps-sdk-unity-samples/tree/main/samples_project/Assets/SampleViewer/Samples/FeatureLayer) - See how to query a feature service to create game objects in Unity located at real world positions.
 * [Geocoding](https://github.com/Esri/arcgis-maps-sdk-unity-samples/tree/main/samples_project/Assets/SampleViewer/Samples/Geocoding) - Search for an address or click on the surface to get the address of that location.
 * [HitTest](https://github.com/Esri/arcgis-maps-sdk-unity-samples/tree/main/samples_project/Assets/SampleViewer/Samples/HitTest) - Visualize individual Buildings ID's from a 3D Object Scene Layer.
