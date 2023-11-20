@@ -4,7 +4,6 @@
   <img src="Resource/Screenshot_20231119_192620_Gallery.jpg" width="300" style="margin-right: 10px;"/>
   <img src="Resource/Screenshot_20231119_192639_Gallery.jpg" width="300" style="margin-right: 10px;"/>
   <img src="Resource/Screenshot_20231119_192727_Gallery.jpg" width="300" style="margin-right: 10px;"/>
-  <img src="Resource/Screenshot_20231119_192734_Gallery.jpg" width="300"/>
 </div>
 
 
