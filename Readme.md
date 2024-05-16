@@ -4,6 +4,10 @@
   <img src="Resource/Screenshot_20231119_192620_Gallery.jpg" width="300" style="margin-right: 10px;"/>
   <img src="Resource/Screenshot_20231119_192639_Gallery.jpg" width="300" style="margin-right: 10px;"/>
   <img src="Resource/Screenshot_20231119_192727_Gallery.jpg" width="300" style="margin-right: 10px;"/>
+
+https://github.com/HRB-NO1/Titan-Campus-AR/assets/54606160/afa9698b-a62f-4372-9bbe-a9ad87e28cee
+
+
 </div>
 
 
