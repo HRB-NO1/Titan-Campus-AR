@@ -7,6 +7,8 @@
 
 https://github.com/HRB-NO1/Titan-Campus-AR/assets/54606160/afa9698b-a62f-4372-9bbe-a9ad87e28cee
 
+[ecs-expo-poster-KSun-KLu-RJin.pdf](https://github.com/HRB-NO1/Titan-Campus-AR/files/15336691/ecs-expo-poster-KSun-KLu-RJin.pdf)
+
 
 </div>
 
