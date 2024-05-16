@@ -1,4 +1,4 @@
-# CampusGuide AR
+# Titan Campus AR
 ![image](https://github.com/HRB-NO1/Titan-Campus-AR/assets/54606160/666f1a97-3d5c-4681-a2b3-ae83225d1253)
 ![image](https://github.com/HRB-NO1/Titan-Campus-AR/assets/54606160/e05ea7f1-a157-4194-b6ec-37969754d41b)
 
