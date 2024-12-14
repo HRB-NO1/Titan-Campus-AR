@@ -1,16 +1,7 @@
 # Titan Campus AR
-![image](https://github.com/HRB-NO1/Titan-Campus-AR/assets/54606160/666f1a97-3d5c-4681-a2b3-ae83225d1253)
 ![image](https://github.com/HRB-NO1/Titan-Campus-AR/assets/54606160/e05ea7f1-a157-4194-b6ec-37969754d41b)
 
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
-  <img src="Resource/Screenshot_20231119_192620_Gallery.jpg" width="300" style="margin-right: 10px;"/>
-  <img src="Resource/Screenshot_20231119_192639_Gallery.jpg" width="300" style="margin-right: 10px;"/>
-  <img src="Resource/Screenshot_20231119_192727_Gallery.jpg" width="300" style="margin-right: 10px;"/>
-
-https://github.com/HRB-NO1/Titan-Campus-AR/assets/54606160/afa9698b-a62f-4372-9bbe-a9ad87e28cee
-
-</div>
 
 
 ### Note
